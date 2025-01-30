@@ -9,11 +9,14 @@
 <body>
   <div class="container">
     <h1>To-Do List</h1>
+    <p>Tom stinks</p>
     <input type="text" id="task-input" placeholder="Add a new task">
     <input type="text" id="details-input" placeholder="Add task details (optional)">
     <button onclick="addTask()">Add</button>
     <ul id="task-list"></ul>
   </div>
-  <script src="script.js"></script>
+  <script>
+    function
+  </script>
 </body>
 </html>
